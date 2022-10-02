@@ -6,7 +6,7 @@ MP.RegisterEvent('onVehicleSpawn', 'SpawnHandler')
 MP.RegisterEvent('onVehicleEdited', 'EditHandler')
 
 --All allowed spawnables, remove any of them to stop people from spawning them
-DefaultCars = {'autobello', 'barstow', 'bastion', 'bluebuck', 'bolide', 'burnside', 'citybus', 'coupe', 'etk800', 'etkc', 'etki', 'fullsize', 'hatch', 'hopper', 'legran', 'midsize', 'miramar', 'pessima', 'pickup', 'pigeon', 'roamer', 'sbr', 'scintilla', 'semi', 'sunburst', 'van', 'vivace', 'wendover', 'wigeon'}
+DefaultCars = {'autobello', 'barstow', 'bastion', 'bluebuck', 'bolide', 'burnside', 'citybus', 'coupe', 'covet','etk800', 'etkc', 'etki', 'fullsize', 'hopper', 'legran', 'midsize', 'miramar', 'pessima', 'pickup', 'pigeon', 'roamer', 'sbr', 'scintilla', 'semi', 'sunburst', 'van', 'vivace', 'wendover', 'wigeon'}
 DefaultTrailers = {'boxutility', 'boxutility_large', 'caravan', 'dryvan', 'flatbed', 'tanker', 'tsfb'}
 Props = {'ball', 'barrels', 'barrier', 'blockwall', 'bollard', 'cannon', 'cardboard_box', 'chair', 'christmas_tree', 'cones', 'couch', 'flail', 'flipramp', 'fridge', 'gate', 'haybale', 'inflated_mat', 'kickplate', 'large_angletester', 'large_bridge', 'large_cannon', 'large_crusher', 'large_hamster_wheel', 'large_roller', 'large_spinner', 'large_tilt', 'mattress', 'metal_box', 'metal_ramp', 'piano', 'roadsigns', 'rocks', 'rolloverr', 'sawhorse', 'shipping_container', 'streetlight', 'suspensionbridge', 'testroller', 'tirestacks', 'tirewall', 'trafficbarrel', 'tube', 'tv', 'wall', 'weightpad', 'woodcrate', 'woodplanks'}
 
